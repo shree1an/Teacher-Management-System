@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\n\ The\ Teacher\ class\ encapsulates\ essential\ details\ such\ as\ Teacher\ ID,\ name,\ address,\ working\ type,\ employment\ status,\ and\ working\ hours.\n\ Providing\ a\ foundational\ structure\ for\ generic\ educator\ information.\n\ @author\ (Shreejan\ Giri)\n\ @version\ (15.01.2024)\n
+comment1.params=teacherID\ teacherName\ address\ workingType\ employmentStatus
+comment1.target=Teacher(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getTeacherID()
+comment3.params=
+comment3.target=java.lang.String\ getTeacherName()
+comment4.params=
+comment4.target=java.lang.String\ getAddress()
+comment5.params=
+comment5.target=java.lang.String\ getWorkingType()
+comment6.params=
+comment6.target=java.lang.String\ getEmploymentStatus()
+comment7.params=
+comment7.target=int\ getWorkingHours()
+comment8.params=workingHours
+comment8.target=void\ setWorkingHours(int)
+comment9.params=
+comment9.target=void\ display()
+numComments=10
